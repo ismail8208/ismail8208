@@ -2,7 +2,7 @@
  
 Currently at Manteq (software company specializing in healthcare solutions), and additionally working as an ASP.NET Core trainer, helping others master the .NET Core and build modern web applications."
 
-## 🤓 - ME
+## ME
 
 - Name: Ismail AL Ahmad
 - Linkedin: [@ismail8208](https://www.linkedin.com/in/ismail8208/)
